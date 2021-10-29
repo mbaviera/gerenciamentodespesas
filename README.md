@@ -1,6 +1,6 @@
 # Escopo e objetivo
 
-Projeto desenvolvido como teste prático pra empresa Sofit Software. <br/>
+Projeto desenvolvido como desafio técnico. <br/>
 Consiste de uma aplicação React Native que consome uma API e realiza funcoes de CRUD de Despesas
 
 <p align="center">
