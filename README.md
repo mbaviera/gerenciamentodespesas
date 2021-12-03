@@ -1,7 +1,6 @@
 # Escopo e objetivo
 
-Projeto desenvolvido como desafio técnico. <br/>
-Consiste de uma aplicação React Native que consome uma API e realiza funcoes de CRUD de Despesas
+Aplicação React Native que consome uma API e realiza funcoes de CRUD de Despesas
 
 <p align="center">
   <img src="https://i.ibb.co/dpNt9dG/Screenshot-2021-10-21-11-09-16-088-com-desafiosofitmobile.jpg" width="300" title="hover text">
